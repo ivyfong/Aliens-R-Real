@@ -7,7 +7,7 @@ The objective of this project is to use JavaScript to append a UFO sightings dat
 1. JavaScript
 2. HTML/CSS
 
-## **Screenshot:**
+## **Screenshots:**
 No filters
 ![screenshot1.jpg](images/ufo_screenshot1.JPG)
 
