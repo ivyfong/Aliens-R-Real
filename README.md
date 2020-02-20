@@ -10,7 +10,9 @@ The objective of this project is to use JavaScript to append a UFO sightings dat
 ## **Screenshot:**
 No filters
 ![screenshot1.jpg](images/ufo_screenshot1.JPG)
+
 Select filters (date, state, country)
 ![screenshot2.jpg](images/ufo_screenshot2.JPG)
+
 All filters
 ![screenshot2.jpg](images/ufo_screenshot2.JPG)
